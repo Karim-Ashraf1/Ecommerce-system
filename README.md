@@ -130,7 +130,7 @@ _This project demonstrates fundamental e-commerce functionality using core Java 
 ## Screenshots
 
 ### Test Execution - Part 1
-![Test Execution Screenshot 1](screenshots/screenshot1.png)
+![Test Execution Screenshot 1](screenshots/screenshot_1.png)
 
 ### Test Execution - Part 2
-![Test Execution Screenshot 2](screenshots/screenshot2.png)
+![Test Execution Screenshot 2](screenshots/screenshot_2.png)
